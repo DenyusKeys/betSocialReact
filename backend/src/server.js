@@ -60,10 +60,5 @@ connectDB().then(() => {
 
 
 
-
-
-
-// mongodb+srv://keysdenyus:december0518@cluster0.5rfrfb3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
 //more functionality later
 // app.use("/api/posts", postsRoutes); and do the same as you did for notes
